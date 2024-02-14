@@ -1,0 +1,10 @@
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.exe.config
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.exe
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\bin\Debug\DamaTahtasi.pdb
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.AssemblyReference.cache
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.Form1.resources
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.Properties.Resources.resources
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.exe
+C:\Users\sahhb\C#Dersleri\EnginDemirog\Odevler\DamaTahtasi\DamaTahtasi\obj\Debug\DamaTahtasi.pdb
